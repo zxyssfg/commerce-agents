@@ -1,0 +1,1024 @@
+{
+  "generated_at": "2026-10-09T13:02:11.323556",
+  "catalog_products": 87,
+  "queries": 42,
+  "search": {
+    "baseline": {
+      "metrics": {
+        "hit_at_1": 0.6429,
+        "recall_at_5": 0.7976,
+        "mrr": 0.7262,
+        "ndcg_at_5": 0.7359
+      },
+      "latency_ms": {
+        "p50": 1.732,
+        "p95": 2.196
+      },
+      "rewrite_latency_ms": {
+        "p50": 0.0,
+        "p95": 0.0
+      },
+      "token_usage": {
+        "input": 0,
+        "output": 0
+      },
+      "rewrite_failures": 0,
+      "queries": [
+        {
+          "query": "warm drink machine",
+          "rewritten_query": "warm drink machine",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.904,
+          "predicted": [
+            "AR-1002",
+            "AR-1406",
+            "AR-2105",
+            "AR-1723"
+          ]
+        },
+        {
+          "query": "screen",
+          "rewritten_query": "screen",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.519,
+          "predicted": [
+            "AR-1107"
+          ]
+        },
+        {
+          "query": "desk seat",
+          "rewritten_query": "desk seat",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.695,
+          "predicted": [
+            "AR-1103",
+            "AR-1108"
+          ]
+        },
+        {
+          "query": "typing board",
+          "rewritten_query": "typing board",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.756,
+          "predicted": [
+            "AR-1404",
+            "AR-1407"
+          ]
+        },
+        {
+          "query": "earphones",
+          "rewritten_query": "earphones",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.569,
+          "predicted": []
+        },
+        {
+          "query": "camera for video calls",
+          "rewritten_query": "camera for video calls",
+          "rewrite_ms": 0.0,
+          "search_ms": 2.09,
+          "predicted": [
+            "AR-1006",
+            "AR-1101",
+            "AR-1503",
+            "AR-1007"
+          ]
+        },
+        {
+          "query": "cold weather sleeping bag",
+          "rewritten_query": "cold weather sleeping bag",
+          "rewrite_ms": 0.0,
+          "search_ms": 2.332,
+          "predicted": [
+            "AR-1203",
+            "AR-1806"
+          ]
+        },
+        {
+          "query": "camping bed shelter",
+          "rewritten_query": "camping bed shelter",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.959,
+          "predicted": [
+            "AR-1201",
+            "AR-1501",
+            "AR-1901",
+            "AR-1202",
+            "AR-1204"
+          ]
+        },
+        {
+          "query": "outside cooking burner",
+          "rewritten_query": "outside cooking burner",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.819,
+          "predicted": [
+            "AR-1204"
+          ]
+        },
+        {
+          "query": "water purifier for hiking",
+          "rewritten_query": "water purifier for hiking",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.899,
+          "predicted": [
+            "AR-1006",
+            "AR-1208",
+            "AR-1207"
+          ]
+        },
+        {
+          "query": "stretchy exercise bands",
+          "rewritten_query": "stretchy exercise bands",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.843,
+          "predicted": [
+            "AR-1304",
+            "AR-1307"
+          ]
+        },
+        {
+          "query": "adjustable weights",
+          "rewritten_query": "adjustable weights",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.612,
+          "predicted": [
+            "AR-1107",
+            "AR-1302",
+            "AR-1102",
+            "AR-1303",
+            "AR-1801"
+          ]
+        },
+        {
+          "query": "indoor cycling machine",
+          "rewritten_query": "indoor cycling machine",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.804,
+          "predicted": [
+            "AR-1002",
+            "AR-1307",
+            "AR-1406",
+            "AR-2105"
+          ]
+        },
+        {
+          "query": "muscle recovery massage tool",
+          "rewritten_query": "muscle recovery massage tool",
+          "rewrite_ms": 0.0,
+          "search_ms": 2.202,
+          "predicted": [
+            "AR-1308"
+          ]
+        },
+        {
+          "query": "toy building bricks",
+          "rewritten_query": "toy building bricks",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.81,
+          "predicted": [
+            "AR-1402"
+          ]
+        },
+        {
+          "query": "robot toy for coding",
+          "rewritten_query": "robot toy for coding",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.981,
+          "predicted": [
+            "AR-1403",
+            "AR-2106",
+            "AR-1007"
+          ]
+        },
+        {
+          "query": "family board game",
+          "rewritten_query": "family board game",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.815,
+          "predicted": [
+            "AR-1404"
+          ]
+        },
+        {
+          "query": "art supplies kit",
+          "rewritten_query": "art supplies kit",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.908,
+          "predicted": [
+            "AR-1405",
+            "AR-1508",
+            "AR-2010",
+            "AR-2003",
+            "AR-1403"
+          ]
+        },
+        {
+          "query": "jigsaw puzzle",
+          "rewritten_query": "jigsaw puzzle",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.704,
+          "predicted": [
+            "AR-1407",
+            "AR-2104"
+          ]
+        },
+        {
+          "query": "child ride toy",
+          "rewritten_query": "child ride toy",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.937,
+          "predicted": [
+            "AR-2106",
+            "AR-1408",
+            "AR-2103",
+            "AR-2101",
+            "AR-2102"
+          ]
+        },
+        {
+          "query": "dog sleeping bed",
+          "rewritten_query": "dog sleeping bed",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.749,
+          "predicted": [
+            "AR-1501",
+            "AR-1901",
+            "AR-1506",
+            "AR-1203"
+          ]
+        },
+        {
+          "query": "cat climbing tower",
+          "rewritten_query": "cat climbing tower",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.654,
+          "predicted": [
+            "AR-1502"
+          ]
+        },
+        {
+          "query": "automatic pet feeder",
+          "rewritten_query": "automatic pet feeder",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.808,
+          "predicted": [
+            "AR-1503"
+          ]
+        },
+        {
+          "query": "cat bathroom box",
+          "rewritten_query": "cat bathroom box",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.658,
+          "predicted": [
+            "AR-1502",
+            "AR-1505",
+            "AR-1901"
+          ]
+        },
+        {
+          "query": "dog winter coat",
+          "rewritten_query": "dog winter coat",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.682,
+          "predicted": [
+            "AR-1501",
+            "AR-1506",
+            "AR-1303",
+            "AR-1504"
+          ]
+        },
+        {
+          "query": "fish tank starter",
+          "rewritten_query": "fish tank starter",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.659,
+          "predicted": [
+            "AR-1508"
+          ]
+        },
+        {
+          "query": "blow dryer",
+          "rewritten_query": "blow dryer",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.516,
+          "predicted": [
+            "AR-1601"
+          ]
+        },
+        {
+          "query": "electric toothbrush",
+          "rewritten_query": "electric toothbrush",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.518,
+          "predicted": [
+            "AR-1602",
+            "AR-1103"
+          ]
+        },
+        {
+          "query": "sunblock",
+          "rewritten_query": "sunblock",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.362,
+          "predicted": []
+        },
+        {
+          "query": "luggage",
+          "rewritten_query": "luggage",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.462,
+          "predicted": [
+            "AR-1801",
+            "AR-1802"
+          ]
+        },
+        {
+          "query": "packing organizers",
+          "rewritten_query": "packing organizers",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.522,
+          "predicted": [
+            "AR-1803"
+          ]
+        },
+        {
+          "query": "neck pillow for flight",
+          "rewritten_query": "neck pillow for flight",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.831,
+          "predicted": [
+            "AR-1006",
+            "AR-1804",
+            "AR-1105"
+          ]
+        },
+        {
+          "query": "travel plug adapter",
+          "rewritten_query": "travel plug adapter",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.739,
+          "predicted": [
+            "AR-1805",
+            "AR-1804"
+          ]
+        },
+        {
+          "query": "toiletries organizer",
+          "rewritten_query": "toiletries organizer",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.581,
+          "predicted": []
+        },
+        {
+          "query": "item finder tag",
+          "rewritten_query": "item finder tag",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.667,
+          "predicted": [
+            "AR-1807"
+          ]
+        },
+        {
+          "query": "mattress",
+          "rewritten_query": "mattress",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.373,
+          "predicted": [
+            "AR-1902"
+          ]
+        },
+        {
+          "query": "duvet cover set",
+          "rewritten_query": "duvet cover set",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.663,
+          "predicted": [
+            "AR-1903"
+          ]
+        },
+        {
+          "query": "salmon fillets",
+          "rewritten_query": "salmon fillets",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.79,
+          "predicted": [
+            "AR-2001"
+          ]
+        },
+        {
+          "query": "fresh pasta",
+          "rewritten_query": "fresh pasta",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.724,
+          "predicted": [
+            "AR-2005"
+          ]
+        },
+        {
+          "query": "pasta sauce",
+          "rewritten_query": "pasta sauce",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.572,
+          "predicted": [
+            "AR-2006",
+            "AR-2005"
+          ]
+        },
+        {
+          "query": "brownie kit",
+          "rewritten_query": "brownie kit",
+          "rewrite_ms": 0.0,
+          "search_ms": 1.604,
+          "predicted": [
+            "AR-2010",
+            "AR-2003",
+            "AR-1403",
+            "AR-1405",
+            "AR-1604"
+          ]
+        },
+        {
+          "query": "cold box for camping food",
+          "rewritten_query": "cold box for camping food",
+          "rewrite_ms": 0.0,
+          "search_ms": 2.289,
+          "predicted": [
+            "AR-1202",
+            "AR-1201",
+            "AR-1006",
+            "AR-1204",
+            "AR-1505"
+          ]
+        }
+      ]
+    },
+    "hybrid": {
+      "metrics": {
+        "hit_at_1": 0.6429,
+        "recall_at_5": 0.9048,
+        "mrr": 0.7337,
+        "ndcg_at_5": 0.7747
+      },
+      "latency_ms": {
+        "p50": 0.467,
+        "p95": 0.644
+      },
+      "rewrite_latency_ms": {
+        "p50": 0.0,
+        "p95": 0.0
+      },
+      "token_usage": {
+        "input": 0,
+        "output": 0
+      },
+      "rewrite_failures": 0,
+      "queries": [
+        {
+          "query": "warm drink machine",
+          "rewritten_query": "warm drink machine",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.717,
+          "predicted": [
+            "AR-1406",
+            "AR-2105",
+            "AR-1723",
+            "AR-1002",
+            "AR-1001"
+          ]
+        },
+        {
+          "query": "screen",
+          "rewritten_query": "screen",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.476,
+          "predicted": [
+            "AR-1107",
+            "AR-1605",
+            "AR-1502",
+            "AR-1008",
+            "AR-1901"
+          ]
+        },
+        {
+          "query": "desk seat",
+          "rewritten_query": "desk seat",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.479,
+          "predicted": [
+            "AR-1103",
+            "AR-1108",
+            "AR-2107",
+            "AR-1102",
+            "AR-1402"
+          ]
+        },
+        {
+          "query": "typing board",
+          "rewritten_query": "typing board",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.515,
+          "predicted": [
+            "AR-1404",
+            "AR-1407",
+            "AR-1901",
+            "AR-1104",
+            "AR-1203"
+          ]
+        },
+        {
+          "query": "earphones",
+          "rewritten_query": "earphones",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.384,
+          "predicted": [
+            "AR-1807",
+            "AR-1108",
+            "AR-1105",
+            "AR-2109",
+            "AR-2010"
+          ]
+        },
+        {
+          "query": "camera for video calls",
+          "rewritten_query": "camera for video calls",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.534,
+          "predicted": [
+            "AR-1101",
+            "AR-1503",
+            "AR-1007",
+            "AR-1006",
+            "AR-1603"
+          ]
+        },
+        {
+          "query": "cold weather sleeping bag",
+          "rewritten_query": "cold weather sleeping bag",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.597,
+          "predicted": [
+            "AR-1203",
+            "AR-2001",
+            "AR-1507",
+            "AR-1803",
+            "AR-2003"
+          ]
+        },
+        {
+          "query": "camping bed shelter",
+          "rewritten_query": "camping bed shelter",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.648,
+          "predicted": [
+            "AR-1202",
+            "AR-1204",
+            "AR-1206",
+            "AR-1201",
+            "AR-1203"
+          ]
+        },
+        {
+          "query": "outside cooking burner",
+          "rewritten_query": "outside cooking burner",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.468,
+          "predicted": [
+            "AR-1204",
+            "AR-1207",
+            "AR-1505",
+            "AR-2005",
+            "AR-2003"
+          ]
+        },
+        {
+          "query": "water purifier for hiking",
+          "rewritten_query": "water purifier for hiking",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.579,
+          "predicted": [
+            "AR-1006",
+            "AR-1207",
+            "AR-1506",
+            "AR-1723",
+            "AR-2005"
+          ]
+        },
+        {
+          "query": "stretchy exercise bands",
+          "rewritten_query": "stretchy exercise bands",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.596,
+          "predicted": [
+            "AR-1304",
+            "AR-1307",
+            "AR-1308",
+            "AR-1301",
+            "AR-1303"
+          ]
+        },
+        {
+          "query": "adjustable weights",
+          "rewritten_query": "adjustable weights",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.526,
+          "predicted": [
+            "AR-1207",
+            "AR-1102",
+            "AR-1306",
+            "AR-1107",
+            "AR-1008"
+          ]
+        },
+        {
+          "query": "indoor cycling machine",
+          "rewritten_query": "indoor cycling machine",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.491,
+          "predicted": [
+            "AR-1307",
+            "AR-1406",
+            "AR-2105",
+            "AR-1002",
+            "AR-1501"
+          ]
+        },
+        {
+          "query": "muscle recovery massage tool",
+          "rewritten_query": "muscle recovery massage tool",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.513,
+          "predicted": [
+            "AR-1308",
+            "AR-1607",
+            "AR-1102",
+            "AR-1302",
+            "AR-1503"
+          ]
+        },
+        {
+          "query": "toy building bricks",
+          "rewritten_query": "toy building bricks",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.479,
+          "predicted": [
+            "AR-1402",
+            "AR-1404",
+            "AR-1805",
+            "AR-2106",
+            "AR-1403"
+          ]
+        },
+        {
+          "query": "robot toy for coding",
+          "rewritten_query": "robot toy for coding",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.501,
+          "predicted": [
+            "AR-1403",
+            "AR-2106",
+            "AR-1007",
+            "AR-2103",
+            "AR-1408"
+          ]
+        },
+        {
+          "query": "family board game",
+          "rewritten_query": "family board game",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.449,
+          "predicted": [
+            "AR-1404",
+            "AR-1407",
+            "AR-1202",
+            "AR-2009",
+            "AR-2002"
+          ]
+        },
+        {
+          "query": "art supplies kit",
+          "rewritten_query": "art supplies kit",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.441,
+          "predicted": [
+            "AR-1405",
+            "AR-1508",
+            "AR-2010",
+            "AR-2009",
+            "AR-1505"
+          ]
+        },
+        {
+          "query": "jigsaw puzzle",
+          "rewritten_query": "jigsaw puzzle",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.335,
+          "predicted": [
+            "AR-1407",
+            "AR-2104"
+          ]
+        },
+        {
+          "query": "child ride toy",
+          "rewritten_query": "child ride toy",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.457,
+          "predicted": [
+            "AR-2106",
+            "AR-1408",
+            "AR-2103",
+            "AR-2107",
+            "AR-2109"
+          ]
+        },
+        {
+          "query": "dog sleeping bed",
+          "rewritten_query": "dog sleeping bed",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.433,
+          "predicted": [
+            "AR-1501",
+            "AR-1203",
+            "AR-1506",
+            "AR-1901",
+            "AR-1504"
+          ]
+        },
+        {
+          "query": "cat climbing tower",
+          "rewritten_query": "cat climbing tower",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.443,
+          "predicted": [
+            "AR-1502",
+            "AR-1401",
+            "AR-2106",
+            "AR-1806",
+            "AR-1601"
+          ]
+        },
+        {
+          "query": "automatic pet feeder",
+          "rewritten_query": "automatic pet feeder",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.551,
+          "predicted": [
+            "AR-1503",
+            "AR-1507",
+            "AR-1505",
+            "AR-1506",
+            "AR-1508"
+          ]
+        },
+        {
+          "query": "cat bathroom box",
+          "rewritten_query": "cat bathroom box",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.419,
+          "predicted": [
+            "AR-1502",
+            "AR-1901",
+            "AR-1505",
+            "AR-1306",
+            "AR-1508"
+          ]
+        },
+        {
+          "query": "dog winter coat",
+          "rewritten_query": "dog winter coat",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.441,
+          "predicted": [
+            "AR-1303",
+            "AR-1506",
+            "AR-1501",
+            "AR-1504",
+            "AR-2006"
+          ]
+        },
+        {
+          "query": "fish tank starter",
+          "rewritten_query": "fish tank starter",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.417,
+          "predicted": [
+            "AR-1508",
+            "AR-2002",
+            "AR-1002",
+            "AR-2101",
+            "AR-2106"
+          ]
+        },
+        {
+          "query": "blow dryer",
+          "rewritten_query": "blow dryer",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.361,
+          "predicted": [
+            "AR-1601",
+            "AR-2105",
+            "AR-1721",
+            "AR-1401",
+            "AR-1403"
+          ]
+        },
+        {
+          "query": "electric toothbrush",
+          "rewritten_query": "electric toothbrush",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.454,
+          "predicted": [
+            "AR-1602",
+            "AR-1103",
+            "AR-1104",
+            "AR-1105",
+            "AR-1108"
+          ]
+        },
+        {
+          "query": "sunblock",
+          "rewritten_query": "sunblock",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.346,
+          "predicted": [
+            "AR-1401",
+            "AR-1403",
+            "AR-1504",
+            "AR-2109",
+            "AR-1605"
+          ]
+        },
+        {
+          "query": "luggage",
+          "rewritten_query": "luggage",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.54,
+          "predicted": [
+            "AR-1801",
+            "AR-1802",
+            "AR-1401",
+            "AR-2001",
+            "AR-1007"
+          ]
+        },
+        {
+          "query": "packing organizers",
+          "rewritten_query": "packing organizers",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.407,
+          "predicted": [
+            "AR-1803",
+            "AR-2004",
+            "AR-1201",
+            "AR-2001",
+            "AR-1722"
+          ]
+        },
+        {
+          "query": "neck pillow for flight",
+          "rewritten_query": "neck pillow for flight",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.465,
+          "predicted": [
+            "AR-1105",
+            "AR-1804",
+            "AR-1721",
+            "AR-1603",
+            "AR-1006"
+          ]
+        },
+        {
+          "query": "travel plug adapter",
+          "rewritten_query": "travel plug adapter",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.441,
+          "predicted": [
+            "AR-1805",
+            "AR-1804",
+            "AR-1803",
+            "AR-1607",
+            "AR-1802"
+          ]
+        },
+        {
+          "query": "toiletries organizer",
+          "rewritten_query": "toiletries organizer",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.385,
+          "predicted": [
+            "AR-1806",
+            "AR-1722",
+            "AR-2004",
+            "AR-1805",
+            "AR-1723"
+          ]
+        },
+        {
+          "query": "item finder tag",
+          "rewritten_query": "item finder tag",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.393,
+          "predicted": [
+            "AR-1807",
+            "AR-1002",
+            "AR-2108",
+            "AR-1606",
+            "AR-1902"
+          ]
+        },
+        {
+          "query": "mattress",
+          "rewritten_query": "mattress",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.38,
+          "predicted": [
+            "AR-1902",
+            "AR-1901",
+            "AR-2108",
+            "AR-1721",
+            "AR-1002"
+          ]
+        },
+        {
+          "query": "duvet cover set",
+          "rewritten_query": "duvet cover set",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.52,
+          "predicted": [
+            "AR-1903",
+            "AR-1207",
+            "AR-1008",
+            "AR-1501",
+            "AR-1804"
+          ]
+        },
+        {
+          "query": "salmon fillets",
+          "rewritten_query": "salmon fillets",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.472,
+          "predicted": [
+            "AR-2001",
+            "AR-2010",
+            "AR-1505",
+            "AR-1208",
+            "AR-2002"
+          ]
+        },
+        {
+          "query": "fresh pasta",
+          "rewritten_query": "fresh pasta",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.468,
+          "predicted": [
+            "AR-2005",
+            "AR-2004",
+            "AR-2006",
+            "AR-1405",
+            "AR-2007"
+          ]
+        },
+        {
+          "query": "pasta sauce",
+          "rewritten_query": "pasta sauce",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.378,
+          "predicted": [
+            "AR-2005",
+            "AR-2006",
+            "AR-2003",
+            "AR-2004",
+            "AR-1405"
+          ]
+        },
+        {
+          "query": "brownie kit",
+          "rewritten_query": "brownie kit",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.443,
+          "predicted": [
+            "AR-2010",
+            "AR-2009",
+            "AR-2003",
+            "AR-1604",
+            "AR-1508"
+          ]
+        },
+        {
+          "query": "cold box for camping food",
+          "rewritten_query": "cold box for camping food",
+          "rewrite_ms": 0.0,
+          "search_ms": 0.647,
+          "predicted": [
+            "AR-1202",
+            "AR-1204",
+            "AR-1206",
+            "AR-1201",
+            "AR-1205"
+          ]
+        }
+      ]
+    }
+  }
+}

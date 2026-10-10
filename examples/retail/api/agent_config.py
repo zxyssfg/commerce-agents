@@ -18,6 +18,8 @@ def build_shopping_config() -> ShoppingAgentConfig:
         brand_name="ACME",
         assistant_name="ACME Assistant",
         brand_voice="professional, warm, and brief",
+        model=os.environ.get("SHOPPING_MODEL") or ShoppingAgentConfig.model_fields["model"].default,
+        memory_model=os.environ.get("MEMORY_MODEL") or ShoppingAgentConfig.model_fields["memory_model"].default,
     )
 
 
